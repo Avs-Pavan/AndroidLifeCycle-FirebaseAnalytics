@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "716227506317",
+    "project_id": "androidlifecycle-analytics",
+    "storage_bucket": "androidlifecycle-analytics.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:716227506317:android:1d3ae355a2023e1cdb32c4",
+        "android_client_info": {
+          "package_name": "com.kevin.androidlifecycle"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA902Ywrufb2lFvOYknHQ_VuI4OrhyFmCE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
